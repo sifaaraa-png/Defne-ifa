@@ -1,0 +1,14 @@
+{
+  "name": "defnesifa",
+  "version": "1.0.0",
+  "description": "Defne Şifa - Şifalı bitkiler, doğal yaşam ve sağlıklı beslenme rehberi",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "dev": "eleventy --serve"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

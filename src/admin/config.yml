@@ -1,0 +1,47 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "src/img/uploads"
+public_folder: "/img/uploads"
+
+locale: "tr"
+
+collections:
+  - name: "yazilar"
+    label: "Makaleler"
+    label_singular: "Makale"
+    folder: "src/posts"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Başlık", name: "baslik", widget: "string" }
+      - label: "Kategori"
+        name: "kategori"
+        widget: "select"
+        options:
+          - { label: "Şifalı Bitkiler", value: "sifali-bitkiler" }
+          - { label: "Sağlıklı Beslenme", value: "saglikli-beslenme" }
+          - { label: "Yaşam Kalitesi", value: "yasam-kalitesi" }
+          - { label: "Hatay Yöresel", value: "hatay-yoresel" }
+          - { label: "Doğal Yaşam", value: "dogal-yasam" }
+      - { label: "Kısa Açıklama (SEO)", name: "aciklama", widget: "text", hint: "Arama sonuçlarında görünecek özet. 150-160 karakter ideal." }
+      - { label: "Anahtar Kelimeler", name: "anahtarKelimeler", widget: "string", required: false, hint: "Virgülle ayırın." }
+      - { label: "Yayın Tarihi", name: "date", widget: "datetime" }
+      - { label: "Güncelleme Tarihi", name: "guncelleme", widget: "datetime", required: false, hint: "Yazıyı sonradan güncellerseniz bu tarihi yenileyin (SEO için)." }
+      - { label: "Okuma Süresi (dk)", name: "okuma", widget: "number", required: false, default: 4 }
+      - { label: "Kapak Görseli", name: "kapak", widget: "image", required: false, hint: "Yazının başında görünür. 1200x630 px idealdir." }
+      - { label: "Kapak Görseli Açıklaması", name: "kapakAlt", widget: "string", required: false, hint: "Görselin ne olduğunu yazın (SEO ve erişilebilirlik için)." }
+      - { label: "YouTube Video ID", name: "video", widget: "string", required: false, hint: "Sadece video kimliği (örn. dQw4w9WgXcQ). Boş bırakabilirsiniz." }
+      - label: "Sıkça Sorulan Sorular"
+        name: "sss"
+        widget: "list"
+        required: false
+        label_singular: "Soru"
+        summary: "{{fields.s}}"
+        fields:
+          - { label: "Soru", name: "s", widget: "string" }
+          - { label: "Cevap", name: "c", widget: "text" }
+      - { label: "İçerik", name: "body", widget: "markdown" }

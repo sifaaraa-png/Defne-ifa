@@ -1,0 +1,98 @@
+---
+layout: temel.njk
+---
+<article class="makale">
+  <div class="makale-ic">
+    {% set katAd = "" %}
+    {% for k in site.kategoriler %}{% if k.slug == kategori %}{% set katAd = k.ad %}{% endif %}{% endfor %}
+
+    <nav class="breadcrumb" aria-label="Sayfa yolu">
+      <a href="/">Ana Sayfa</a> <span>›</span>
+      <a href="/{{ kategori }}/">{{ katAd }}</a> <span>›</span>
+      <span class="aktif">{{ baslik }}</span>
+    </nav>
+
+    <span class="etiket">{{ katAd }}</span>
+    <h1>{{ baslik }}</h1>
+    <div class="meta">
+      <span>{{ site.yazar }}</span> · {{ page.date | tarih }}{% if okuma %} · {{ okuma }} dk okuma{% endif %}
+    </div>
+
+    {% if kapak %}
+    <img src="{{ kapak }}" alt="{{ kapakAlt if kapakAlt else baslik }}" class="makale-kapak" width="760" height="430" loading="eager">
+    {% endif %}
+
+    <div class="makale-govde">
+      {{ content | safe }}
+
+      {% if video %}
+      <div class="video-sar">
+        <iframe src="https://www.youtube.com/embed/{{ video }}" title="{{ baslik }}" loading="lazy" allowfullscreen></iframe>
+      </div>
+      {% endif %}
+
+      {% if sss %}
+      <section class="sss">
+        <h2>Sıkça Sorulan Sorular</h2>
+        {% for soru in sss %}
+        <details class="sss-oge">
+          <summary>{{ soru.s }}</summary>
+          <p>{{ soru.c }}</p>
+        </details>
+        {% endfor %}
+      </section>
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {% for soru in sss %}
+          {
+            "@type": "Question",
+            "name": "{{ soru.s }}",
+            "acceptedAnswer": { "@type": "Answer", "text": "{{ soru.c }}" }
+          }{% if not loop.last %},{% endif %}
+          {% endfor %}
+        ]
+      }
+      </script>
+      {% endif %}
+
+      <div class="uyari">
+        <strong>Bilgilendirme:</strong> Bu içerik yalnızca genel bilgilendirme amaçlıdır ve tıbbi tavsiye yerine geçmez. Sağlık sorunlarınız için lütfen hekiminize veya eczacınıza danışın.
+      </div>
+    </div>
+
+    <div class="cta-kutu">
+      <h3>Sağlıklı yaşam yolculuğunuzda yanınızdayız</h3>
+      <p>Beslenme ve doğal yaşam konusunda kişisel destek mi arıyorsunuz? Sorularınız için WhatsApp'tan yazın, birlikte konuşalım.</p>
+      <a href="https://wa.me/{{ site.whatsapp }}" class="btn" rel="nofollow" target="_blank">WhatsApp'tan Yazın</a>
+    </div>
+  </div>
+</article>
+
+{% set ilgiliYazilar = collections.tumYazilar | ilgili(page.url, kategori) %}
+{% if ilgiliYazilar.length %}
+<section class="ilgili-bolum">
+  <div class="kapsam">
+    <div class="bolum-bas">
+      <span class="eyebrow">Devamı</span>
+      <h2>İlgili Yazılar</h2>
+    </div>
+    <div class="yazi-izgara">
+      {% for yazi in ilgiliYazilar %}
+      <a href="{{ yazi.url }}" class="yazi-kart">
+        {% if yazi.data.kapak %}
+        <img src="{{ yazi.data.kapak }}" alt="{{ yazi.data.kapakAlt if yazi.data.kapakAlt else yazi.data.baslik }}" width="400" height="200" loading="lazy">
+        {% endif %}
+        <div class="ic">
+          <span class="etiket">{{ katAd }}</span>
+          <h3>{{ yazi.data.baslik }}</h3>
+          <p>{{ yazi.data.aciklama }}</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

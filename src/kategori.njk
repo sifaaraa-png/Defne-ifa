@@ -1,0 +1,42 @@
+---
+layout: temel.njk
+pagination:
+  data: site.kategoriler
+  size: 1
+  alias: kat
+permalink: "/{{ kat.slug }}/"
+eleventyComputed:
+  baslik: "{{ kat.ad }}"
+  aciklama: "{{ kat.aciklama }}"
+---
+<section class="sayfa-bas">
+  <div class="kapsam">
+    <h1>{{ kat.ad }}</h1>
+    <p>{{ kat.aciklama }}</p>
+  </div>
+</section>
+
+<section class="bolum">
+  <div class="kapsam">
+    {% set katYazilar = collections[kat.slug] %}
+    {% if katYazilar.length %}
+    <div class="yazi-izgara">
+      {% for yazi in katYazilar %}
+      <a href="{{ yazi.url }}" class="yazi-kart">
+        {% if yazi.data.kapak %}
+        <img src="{{ yazi.data.kapak }}" alt="{{ yazi.data.kapakAlt if yazi.data.kapakAlt else yazi.data.baslik }}" width="400" height="200" loading="lazy">
+        {% endif %}
+        <div class="ic">
+          <span class="etiket">{{ kat.ad }}</span>
+          <h3>{{ yazi.data.baslik }}</h3>
+          <p>{{ yazi.data.aciklama }}</p>
+          <div class="alt">{{ yazi.date | tarih }}</div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+    {% else %}
+    <p style="text-align:center; color:var(--metin-soluk);">Bu kategoride yakında yeni yazılar olacak. Takipte kalın.</p>
+    {% endif %}
+  </div>
+</section>

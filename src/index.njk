@@ -1,0 +1,69 @@
+---
+layout: temel.njk
+---
+<section class="hero">
+  <div class="hero-yaprak">❧</div>
+  <div class="kapsam">
+    <h1>Doğanın şifası, Hatay'ın bereketi</h1>
+    <p>Şifalı bitkiler, doğal yaşam ve sağlıklı beslenme üzerine sade, güvenilir ve faydalı bilgi. Defne yaprağından zahtere, Hatay topraklarının doğal hazinelerinden mutfağınıza.</p>
+    <a href="#kategoriler" class="btn">Keşfetmeye Başlayın</a>
+  </div>
+</section>
+
+<section class="bolum" id="kategoriler">
+  <div class="kapsam">
+    <div class="bolum-bas">
+      <span class="eyebrow">Ne Bulacaksınız</span>
+      <h2>Bilgi Kategorileri</h2>
+      <p>İhtiyacınıza göre seçin; her başlık altında düzenli olarak yeni, doğru bilgiler ekliyoruz.</p>
+    </div>
+    <div class="kart-izgara">
+      {% set ikonlar = { "sifali-bitkiler": "🌿", "saglikli-beslenme": "🥗", "yasam-kalitesi": "🧘", "hatay-yoresel": "🫒", "dogal-yasam": "🍃" } %}
+      {% for kat in site.kategoriler %}
+      <a href="/{{ kat.slug }}/" class="kart">
+        <div class="kart-ikon">{{ ikonlar[kat.slug] }}</div>
+        <h3>{{ kat.ad }}</h3>
+        <p>{{ kat.aciklama }}</p>
+        <span class="devam">Yazıları gör →</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="bolum" style="background:var(--beyaz); border-top:1px solid var(--kenar);">
+  <div class="kapsam">
+    <div class="bolum-bas">
+      <span class="eyebrow">En Yeni</span>
+      <h2>Son Yazılar</h2>
+      <p>Defne Şifa'ya eklenen en güncel rehberler ve doğal yaşam bilgileri.</p>
+    </div>
+    <div class="yazi-izgara">
+      {% for yazi in collections.tumYazilar | head(6) %}
+      {% set katAd = "" %}
+      {% for k in site.kategoriler %}{% if k.slug == yazi.data.kategori %}{% set katAd = k.ad %}{% endif %}{% endfor %}
+      <a href="{{ yazi.url }}" class="yazi-kart">
+        {% if yazi.data.kapak %}
+        <img src="{{ yazi.data.kapak }}" alt="{{ yazi.data.kapakAlt if yazi.data.kapakAlt else yazi.data.baslik }}" width="400" height="200" loading="lazy">
+        {% endif %}
+        <div class="ic">
+          <span class="etiket">{{ katAd }}</span>
+          <h3>{{ yazi.data.baslik }}</h3>
+          <p>{{ yazi.data.aciklama }}</p>
+          <div class="alt">{{ yazi.date | tarih }}</div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="bolum" style="background:var(--defne-soluk);">
+  <div class="kapsam" style="max-width:760px;">
+    <div class="cta-kutu">
+      <h3>Sorularınız mı var?</h3>
+      <p>Doğal yaşam ve beslenme yolculuğunuzda kişisel destek için WhatsApp'tan bize ulaşın. Sohbet etmekten memnuniyet duyarız.</p>
+      <a href="https://wa.me/{{ site.whatsapp }}" class="btn" rel="nofollow" target="_blank">WhatsApp'tan Yazın</a>
+    </div>
+  </div>
+</section>

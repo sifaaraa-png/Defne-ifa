@@ -1,0 +1,26 @@
+---
+layout: temel.njk
+baslik: Sayfa Bulunamadı
+permalink: /404.html
+noindex: true
+eleventyExcludeFromCollections: true
+---
+<section class="hata-404">
+  <div class="kapsam">
+    <div class="hata-yaprak">🌿</div>
+    <h1>Aradığınız sayfa bulunamadı</h1>
+    <p>Bu sayfa taşınmış, kaldırılmış ya da hiç var olmamış olabilir. Endişelenmeyin, doğru yolu birlikte bulalım.</p>
+    <div class="hata-butonlar">
+      <a href="/" class="btn">Ana Sayfaya Dön</a>
+      <a href="/iletisim/" class="btn btn-altin">İletişime Geç</a>
+    </div>
+    <div class="hata-kategoriler">
+      <p>Ya da bir kategoriye göz atın:</p>
+      <div>
+        {% for kat in site.kategoriler %}
+        <a href="/{{ kat.slug }}/">{{ kat.ad }}</a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
