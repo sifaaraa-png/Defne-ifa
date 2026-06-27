@@ -420,3 +420,87 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
 /* 6. öne çıkan kart */
 .kart-one { background: linear-gradient(155deg, var(--defne-soluk), var(--krem)); border-color: var(--defne-acik); }
 .kart-one .kart-ikon { background: var(--defne-yesil); border-radius: 14px; width: 56px; height: 56px; display: flex; align-items: center; justify-content: center; }
+
+/* ========== HATAY'I KEŞFET DROPDOWN ========== */
+.menu-dropdown { position: relative; }
+.dropdown-tetik { display: inline-flex; align-items: center; gap: 5px; }
+.dropdown-tetik .ok { transition: transform 0.25s; }
+.menu-dropdown:hover .ok { transform: rotate(180deg); }
+.dropdown-icerik {
+  position: absolute; top: calc(100% + 14px); left: 50%; transform: translateX(-50%) translateY(8px);
+  background: var(--beyaz); border: 1px solid var(--kenar); border-radius: 16px;
+  box-shadow: 0 20px 50px rgba(31,68,56,0.15); padding: 24px; width: 520px;
+  display: grid; grid-template-columns: 1fr 1.3fr; gap: 24px;
+  opacity: 0; visibility: hidden; transition: all 0.25s; z-index: 200;
+}
+.menu-dropdown:hover .dropdown-icerik { opacity: 1; visibility: visible; transform: translateX(-50%) translateY(0); }
+.dropdown-icerik::before {
+  content: ""; position: absolute; top: -14px; left: 0; right: 0; height: 14px;
+}
+.dropdown-baslik {
+  display: block; font-size: 0.72rem; font-weight: 700; letter-spacing: 1.2px;
+  text-transform: uppercase; color: var(--altin-metin); margin-bottom: 12px;
+}
+.dropdown-bolum > a {
+  display: block; padding: 8px 10px; border-radius: 8px; font-size: 0.92rem;
+  color: var(--metin); font-weight: 500; transition: 0.18s;
+}
+.dropdown-bolum > a:hover { background: var(--defne-soluk); color: var(--defne-koyu); padding-left: 14px; }
+.dropdown-ilceler { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; }
+.dropdown-ilceler a {
+  padding: 6px 10px; border-radius: 7px; font-size: 0.88rem; color: var(--metin-soluk);
+  transition: 0.18s;
+}
+.dropdown-ilceler a:hover { background: var(--defne-soluk); color: var(--defne-yesil); }
+
+@media (max-width: 820px) {
+  .dropdown-icerik {
+    position: static; transform: none; width: 100%; opacity: 1; visibility: visible;
+    box-shadow: none; border: none; padding: 12px 0 12px 16px; grid-template-columns: 1fr;
+    display: none;
+  }
+  .menu.acik .menu-dropdown .dropdown-icerik { display: grid; }
+  .menu-dropdown:hover .dropdown-icerik { transform: none; }
+  .dropdown-ilceler { grid-template-columns: 1fr 1fr 1fr; }
+}
+
+/* ========== HATAY'I KEŞFET SAYFALARI ========== */
+.kesfet-hero {
+  background: linear-gradient(160deg, var(--defne-koyu) 0%, #1a4a3c 60%, #235943 100%);
+  color: var(--beyaz); padding: 80px 0 70px; text-align: center; position: relative; overflow: hidden;
+}
+.kesfet-hero::before {
+  content: "❧"; position: absolute; font-size: 22rem; color: rgba(255,255,255,0.03);
+  right: -40px; top: -40px; pointer-events: none; line-height: 1;
+}
+.kesfet-hero .eyebrow {
+  display: inline-block; font-size: 0.82rem; font-weight: 700; letter-spacing: 2px;
+  text-transform: uppercase; color: var(--altin-acik); margin-bottom: 16px; position: relative;
+}
+.kesfet-hero h1 {
+  color: var(--beyaz); font-size: clamp(2.1rem, 4.5vw, 3.2rem); margin-bottom: 18px;
+  position: relative; letter-spacing: -0.3px;
+}
+.kesfet-hero p {
+  color: rgba(255,255,255,0.85); font-size: 1.15rem; max-width: 680px; margin: 0 auto;
+  position: relative; line-height: 1.7;
+}
+.kesfet-hero-alt { padding: 60px 0 50px; }
+.geri-link {
+  display: inline-block; color: var(--altin-acik); font-size: 0.9rem; font-weight: 600;
+  margin-bottom: 18px; position: relative;
+}
+.geri-link:hover { color: var(--beyaz); }
+
+/* İlçe bulutu */
+.ilce-bulutu {
+  display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; max-width: 820px; margin: 0 auto;
+}
+.ilce-etiket {
+  display: inline-block; padding: 11px 22px; background: var(--beyaz); border: 1px solid var(--defne-acik);
+  border-radius: 40px; font-size: 0.95rem; font-weight: 600; color: var(--defne-koyu); transition: 0.22s;
+}
+.ilce-etiket:hover {
+  background: var(--defne-yesil); color: var(--beyaz); border-color: var(--defne-yesil);
+  transform: translateY(-2px); box-shadow: 0 8px 20px rgba(47,106,84,0.25);
+}

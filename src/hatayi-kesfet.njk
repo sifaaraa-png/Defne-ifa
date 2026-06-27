@@ -1,0 +1,83 @@
+---
+layout: temel.njk
+baslik: Hatay'ı Keşfet — Gezilecek Yerler, Tarihi Mekanlar ve Doğal Güzellikler
+aciklama: Hatay ve İskenderun'un gezilecek yerleri, tarihi mekanları, türbe ve makamları ile doğal güzellikleri. İlçe ilçe Hatay rehberi; Harbiye Şelalesi'nden Payas Külliyesi'ne.
+anahtarKelimeler: "Hatay gezilecek yerler, İskenderun gezilecek yerler, Hatay tarihi yerler, Hatay türbeler, Antakya gezilecek yerler, Hatay doğal güzellikler"
+permalink: /hatayi-kesfet/
+---
+<section class="kesfet-hero">
+  <div class="kapsam">
+    <span class="eyebrow">Hatay'ı Keşfet</span>
+    <h1>Medeniyetlerin Buluştuğu Topraklar</h1>
+    <p>Binlerce yıllık tarih, eşsiz doğal güzellikler ve kutsal mekanlar... Hatay ve İskenderun'un her köşesini, ilçe ilçe ve tema tema keşfedin. Gezilecek yerlerden tarihi mekanlara, türbelerden doğa harikalarına; bu toprakların hikayesini birlikte yazıyoruz.</p>
+  </div>
+</section>
+
+<section class="bolum">
+  <div class="kapsam">
+    <div class="bolum-bas orta" style="text-align:center; margin-left:auto; margin-right:auto;">
+      <span class="eyebrow">Temaya Göre</span>
+      <h2>Neyi Keşfetmek İstersiniz?</h2>
+    </div>
+    <div class="kart-izgara">
+      {% for tur in site.kesfetTurleri %}
+      <a href="/hatayi-kesfet/{{ tur.slug }}/" class="kart">
+        <div class="kart-ikon">{{ tur.ikon }}</div>
+        <h3>{{ tur.ad }}</h3>
+        {% set sayi = 0 %}
+        {% for yazi in collections.tumYazilar %}{% if yazi.data.tur == tur.slug %}{% set sayi = sayi + 1 %}{% endif %}{% endfor %}
+        <p>{{ sayi }} içerik · Hatay'ın {{ tur.ad | lower }}ini keşfedin.</p>
+        <span class="devam">Görüntüle →</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="bolum" style="background:var(--beyaz); border-top:1px solid var(--kenar);">
+  <div class="kapsam">
+    <div class="bolum-bas orta" style="text-align:center; margin-left:auto; margin-right:auto;">
+      <span class="eyebrow">Tüm İçerikler</span>
+      <h2>Hatay Rehberi</h2>
+      <p>Eklenen tüm gezi, tarih ve doğa içerikleri. Düzenli olarak yeni yerler ekleniyor.</p>
+    </div>
+    {% set kesfetYazilar = [] %}
+    {% for yazi in collections.tumYazilar %}{% if yazi.data.kategori == "hatayi-kesfet" %}{% set kesfetYazilar = (kesfetYazilar.push(yazi), kesfetYazilar) %}{% endif %}{% endfor %}
+    {% if kesfetYazilar.length %}
+    <div class="yazi-izgara">
+      {% for yazi in kesfetYazilar %}
+      {% set turAd = "" %}
+      {% for t in site.kesfetTurleri %}{% if t.slug == yazi.data.tur %}{% set turAd = t.ad %}{% endif %}{% endfor %}
+      <a href="{{ yazi.url }}" class="yazi-kart" id="{{ yazi.data.ilce | lower }}">
+        {% if yazi.data.kapak %}
+        <img src="{{ yazi.data.kapak }}" alt="{{ yazi.data.kapakAlt if yazi.data.kapakAlt else yazi.data.baslik }}" width="400" height="200" loading="lazy">
+        {% endif %}
+        <div class="ic">
+          <span class="etiket">{{ yazi.data.ilce }} · {{ turAd }}</span>
+          <h3>{{ yazi.data.baslik }}</h3>
+          <p>{{ yazi.data.aciklama }}</p>
+          <div class="alt">{{ yazi.date | tarih }}</div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+    {% else %}
+    <p style="text-align:center; color:var(--metin-soluk);">Yakında Hatay'ın güzellikleri burada olacak.</p>
+    {% endif %}
+  </div>
+</section>
+
+<section class="bolum" style="background:var(--defne-soluk);">
+  <div class="kapsam">
+    <div class="bolum-bas orta" style="text-align:center; margin-left:auto; margin-right:auto;">
+      <span class="eyebrow">İlçelere Göre</span>
+      <h2>15 İlçede Hatay</h2>
+      <p>Gitmek istediğiniz ilçeyi seçin, oradaki gezilecek yerleri görün.</p>
+    </div>
+    <div class="ilce-bulutu">
+      {% for ilce in site.ilceler %}
+      <a href="/hatayi-kesfet/#{{ ilce | lower }}" class="ilce-etiket">{{ ilce }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</section>

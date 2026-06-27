@@ -1,0 +1,48 @@
+---
+layout: temel.njk
+pagination:
+  data: site.kesfetTurleri
+  size: 1
+  alias: tur
+permalink: "/hatayi-kesfet/{{ tur.slug }}/"
+eleventyComputed:
+  baslik: "Hatay {{ tur.ad }} — İlçe İlçe Rehber"
+  aciklama: "Hatay ve İskenderun'da {{ tur.ad | lower }}. İlçelere göre {{ tur.ad | lower }} listesi ve gezi rehberi."
+---
+<section class="kesfet-hero kesfet-hero-alt">
+  <div class="kapsam">
+    <a href="/hatayi-kesfet/" class="geri-link">← Hatay'ı Keşfet</a>
+    <span class="eyebrow">{{ tur.ikon }} Hatay'ı Keşfet</span>
+    <h1>{{ tur.ad }}</h1>
+    <p>Hatay ve İskenderun'un {{ tur.ad | lower }}ini ilçe ilçe keşfedin.</p>
+  </div>
+</section>
+
+<section class="bolum">
+  <div class="kapsam">
+    {% set turYazilar = [] %}
+    {% for yazi in collections.tumYazilar %}{% if yazi.data.tur == tur.slug %}{% set turYazilar = (turYazilar.push(yazi), turYazilar) %}{% endif %}{% endfor %}
+    {% if turYazilar.length %}
+    <div class="yazi-izgara">
+      {% for yazi in turYazilar %}
+      <a href="{{ yazi.url }}" class="yazi-kart">
+        {% if yazi.data.kapak %}
+        <img src="{{ yazi.data.kapak }}" alt="{{ yazi.data.kapakAlt if yazi.data.kapakAlt else yazi.data.baslik }}" width="400" height="200" loading="lazy">
+        {% endif %}
+        <div class="ic">
+          <span class="etiket">{{ yazi.data.ilce }}</span>
+          <h3>{{ yazi.data.baslik }}</h3>
+          <p>{{ yazi.data.aciklama }}</p>
+          <div class="alt">{{ yazi.date | tarih }}</div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+    {% else %}
+    <div style="text-align:center; padding:40px 0;">
+      <p style="color:var(--metin-soluk); font-size:1.1rem;">Bu bölüme yakında içerikler eklenecek. Hatay'ın güzelliklerini birlikte keşfetmeye devam ediyoruz.</p>
+      <a href="/hatayi-kesfet/" class="btn" style="margin-top:20px;">Tüm İçeriklere Dön</a>
+    </div>
+    {% endif %}
+  </div>
+</section>

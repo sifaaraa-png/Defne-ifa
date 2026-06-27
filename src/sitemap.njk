@@ -11,6 +11,9 @@ eleventyExcludeFromCollections: true
   {% for kat in site.kategoriler %}
   <url><loc>{{ site.url }}/{{ kat.slug }}/</loc><priority>0.8</priority></url>
   {% endfor %}
+  {% for tur in site.kesfetTurleri %}
+  <url><loc>{{ site.url }}/hatayi-kesfet/{{ tur.slug }}/</loc><priority>0.7</priority></url>
+  {% endfor %}
   {% for yazi in collections.tumYazilar %}
   <url><loc>{{ site.url }}{{ yazi.url }}</loc><lastmod>{{ yazi.date | iso }}</lastmod><priority>0.7</priority></url>
   {% endfor %}

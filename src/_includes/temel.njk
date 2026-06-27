@@ -87,7 +87,29 @@
       </button>
       <ul class="menu" id="anamenu">
         {% for kat in site.kategoriler %}
+          {% if kat.slug == "hatayi-kesfet" %}
+        <li class="menu-dropdown">
+          <a href="/{{ kat.slug }}/" class="dropdown-tetik">{{ kat.ad }} <svg class="ok" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M6 9l6 6 6-6"/></svg></a>
+          <div class="dropdown-icerik">
+            <div class="dropdown-bolum">
+              <span class="dropdown-baslik">İçerik Türleri</span>
+              {% for tur in site.kesfetTurleri %}
+              <a href="/hatayi-kesfet/{{ tur.slug }}/">{{ tur.ikon }} {{ tur.ad }}</a>
+              {% endfor %}
+            </div>
+            <div class="dropdown-bolum">
+              <span class="dropdown-baslik">İlçelere Göre</span>
+              <div class="dropdown-ilceler">
+                {% for ilce in site.ilceler %}
+                <a href="/hatayi-kesfet/#{{ ilce | lower }}">{{ ilce }}</a>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </li>
+          {% else %}
         <li><a href="/{{ kat.slug }}/">{{ kat.ad }}</a></li>
+          {% endif %}
         {% endfor %}
         <li><a href="/hakkimizda/">Hakkımızda</a></li>
         <li><a href="/iletisim/">İletişim</a></li>

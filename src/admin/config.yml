@@ -27,6 +27,18 @@ collections:
           - { label: "Yaşam Kalitesi", value: "yasam-kalitesi" }
           - { label: "Hatay Yöresel", value: "hatay-yoresel" }
           - { label: "Doğal Yaşam", value: "dogal-yasam" }
+          - { label: "Hatay'ı Keşfet", value: "hatayi-kesfet" }
+      - label: "İçerik Türü (sadece Hatay'ı Keşfet için)"
+        name: "tur"
+        widget: "select"
+        required: false
+        hint: "Yazı 'Hatay'ı Keşfet' kategorisindeyse türünü seçin."
+        options:
+          - { label: "Gezilecek Yerler", value: "gezilecek-yerler" }
+          - { label: "Tarihi Yerler", value: "tarihi-yerler" }
+          - { label: "Türbe ve Makamlar", value: "turbeler" }
+          - { label: "Doğal Güzellikler", value: "dogal-guzellikler" }
+      - { label: "İlçe (sadece Hatay'ı Keşfet için)", name: "ilce", widget: "string", required: false, hint: "Örn: İskenderun, Antakya, Payas..." }
       - { label: "Kısa Açıklama (SEO)", name: "aciklama", widget: "text", hint: "Arama sonuçlarında görünecek özet. 150-160 karakter ideal." }
       - { label: "Anahtar Kelimeler", name: "anahtarKelimeler", widget: "string", required: false, hint: "Virgülle ayırın." }
       - { label: "Yayın Tarihi", name: "date", widget: "datetime" }
