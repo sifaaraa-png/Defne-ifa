@@ -5,7 +5,7 @@ aciklama: "Zencefil nasıl kullanılır, hangi faydaları vardır ve kimler dikk
 anahtarKelimeler: "zencefil faydaları, zencefil çayı, zencefil nasıl kullanılır, zencefil zararları"
 date: 2026-06-14
 okuma: 4
-kapak: "/img/posts/zencefil.jpg"
+kapak: "/img/posts/zencefil-faydalari-kullanimi.webp"
 kapakAlt: "Taze zencefil kökü ve dilimleri"
 sss:
   - s: "Zencefil çayı nasıl yapılır?"
@@ -20,7 +20,7 @@ Zencefil, binlerce yıldır hem mutfaklarda hem de geleneksel kullanımda yer bu
 
 ## Zencefil Nedir?
 
-Zencefil, sıcak iklimlerde yetişen bir bitkinin kök kısmıdır. Kendine özgü keskin, hafif acı ve ferah tadı, içerdiği doğal aromatik bileşenlerden gelir. Taze kök, kurutulmuş toz veya çay formunda bulunabilir.
+Zencefil, sıcak iklimlerde yetişen bir bitkinin kök kısmıdır. Kendine özgü keskin, hafif acı ve ferah tadı, içerdiği doğal aromatik bileşenlerden gelir. Taze kök, [kurutulmuş](/dogal-yasam/sifali-bitkileri-kurutma-saklama/) toz veya çay formunda bulunabilir.
 
 ## Zencefilin Bilinen Faydaları
 

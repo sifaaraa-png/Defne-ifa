@@ -5,7 +5,7 @@ aciklama: "Yeşil çay neden bu kadar değerli? Faydaları, günde kaç bardak i
 anahtarKelimeler: "yeşil çay faydaları, yeşil çay nasıl demlenir, yeşil çay zararları, günde kaç bardak yeşil çay"
 date: 2026-06-15
 okuma: 5
-kapak: "/img/posts/yesil-cay.jpg"
+kapak: "/img/posts/yesil-cay-faydalari-demleme.webp"
 kapakAlt: "Cam bardakta demlenmiş yeşil çay"
 sss:
   - s: "Yeşil çay neden acı oluyor?"
@@ -27,7 +27,7 @@ Yeşil çay, siyah çayla aynı bitkiden (*Camellia sinensis*) elde edilir. Arad
 Yeşil çay üzerine yapılan araştırmalar şu yönlere işaret eder:
 
 - **Antioksidan kaynağı:** İçerdiği katekinler güçlü antioksidanlardır.
-- **Zindelik hissi:** Doğal kafein içeriği sayesinde hafif bir canlılık verir; ancak kahveden daha yumuşak bir etkidir.
+- **Zindelik hissi:** Doğal [kafein](/yasam-kalitesi/kafeini-dengeli-tuketme-rehberi/) içeriği sayesinde hafif bir canlılık verir; ancak kahveden daha yumuşak bir etkidir.
 - **Sıvı alımına katkı:** Şekersiz tüketildiğinde günlük sıvı ihtiyacına destek olur.
 
 > Yeşil çay sağlıklı bir alışkanlığın parçası olabilir, ancak tek başına bir tedavi yöntemi veya zayıflama mucizesi değildir. Dengeli beslenme ve hareketin yerini tutmaz.
@@ -47,12 +47,12 @@ Bu yöntemle çayınız acılaşmadan, yumuşak ve aromatik olur.
 
 Çoğu yetişkin için günde 2-3 bardak yeşil çay makul kabul edilir. İçeriğindeki kafein nedeniyle:
 
-- Akşam geç saatte içmek uykuyu etkileyebilir.
+- Akşam geç saatte içmek [uykuyu](/yasam-kalitesi/kaliteli-uyku-onerileri/) etkileyebilir.
 - Hassas bir mideniz varsa aç karnına içmekten kaçının.
 - Hamilelik, emzirme döneminde veya düzenli ilaç kullanıyorsanız miktarı hekiminize danışarak ayarlayın.
 
 ## Kimler Dikkatli Olmalı?
 
-Demir eksikliği olanlar, çayı yemeklerle birlikte değil, aralarında tüketmeye özen göstermelidir; çünkü çay demir emilimini azaltabilir. Ayrıca kafeine duyarlıysanız porsiyonu küçük tutun.
+[Demir eksikliği](/saglikli-beslenme/demir-acisindan-zengin-besinler/) olanlar, çayı yemeklerle birlikte değil, aralarında tüketmeye özen göstermelidir; çünkü çay demir emilimini azaltabilir. Ayrıca kafeine duyarlıysanız porsiyonu küçük tutun.
 
 Yeşil çay, ölçülü ve doğru demlendiğinde günlük yaşamınıza huzurlu bir mola katabilir. Onu bir mucize değil, keyifli ve sağlıklı bir alışkanlık olarak görmek en doğrusudur.

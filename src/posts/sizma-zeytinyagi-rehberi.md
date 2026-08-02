@@ -5,7 +5,7 @@ aciklama: "Gerçek sızma zeytinyağı nasıl anlaşılır, nasıl saklanır ve 
 anahtarKelimeler: "sızma zeytinyağı, kaliteli zeytinyağı nasıl anlaşılır, Hatay zeytinyağı, naturel sızma zeytinyağı, zeytinyağı saklama"
 date: 2026-06-16
 okuma: 6
-kapak: "/img/posts/zeytinyagi.jpg"
+kapak: "/img/posts/sizma-zeytinyagi-rehberi.webp"
 kapakAlt: "Cam şişede naturel sızma zeytinyağı"
 sss:
   - s: "Sızma zeytinyağı boğazı neden yakar?"
@@ -16,7 +16,7 @@ sss:
     c: "Orta ısıda pişirmeye uygundur, ancak çok yüksek ısıda kızartma için ideal değildir. Çiğ kullanımda faydası en yüksektir."
 ---
 
-Zeytinyağı, Akdeniz mutfağının kalbidir ve Hatay bu konuda Türkiye'nin en bereketli topraklarından birine sahiptir. Ancak pazarda her şişe "sızma" yazsa da, gerçekte kaliteli zeytinyağını ayırt etmek bilgi ister. Bu rehberde iyi zeytinyağını nasıl tanıyacağınızı sade bir dille anlatıyoruz.
+Zeytinyağı, Akdeniz mutfağının kalbidir ve Hatay bu konuda Türkiye'nin en bereketli topraklarından birine sahiptir; [halhalı zeytin](/hatay-yoresel/halhali-zeytin/) gibi yöresel ürünler de bu bereketin sofradaki yansımasıdır. Ancak pazarda her şişe "sızma" yazsa da, gerçekte kaliteli zeytinyağını ayırt etmek bilgi ister. Bu rehberde iyi zeytinyağını nasıl tanıyacağınızı sade bir dille anlatıyoruz.
 
 ## Naturel Sızma Zeytinyağı Nedir?
 

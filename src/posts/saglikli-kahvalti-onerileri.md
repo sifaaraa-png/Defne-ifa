@@ -5,7 +5,7 @@ aciklama: "Güne enerjik başlamak için sağlıklı bir kahvaltı nasıl kurulu
 anahtarKelimeler: "sağlıklı kahvaltı, dengeli kahvaltı, kahvaltıda ne yenir, sağlıklı kahvaltı önerileri"
 date: 2026-06-13
 okuma: 5
-kapak: "/img/posts/kahvalti.jpg"
+kapak: "/img/posts/saglikli-kahvalti-onerileri.webp"
 kapakAlt: "Dengeli ve doğal bir kahvaltı sofrası"
 sss:
   - s: "Sağlıklı kahvaltıda neler olmalı?"
@@ -22,7 +22,7 @@ Kahvaltı, güne başlama biçimimizi doğrudan etkiler. İyi kurulmuş bir kahv
 
 Sağlıklı bir kahvaltı tabağı genellikle şu üç unsuru bir arada bulundurur:
 
-- **Protein:** Yumurta, peynir veya az yağlı süt ürünleri. Protein, tokluk hissini uzatır.
+- **[Protein](/saglikli-beslenme/gunluk-protein-ihtiyaci-ve-kaynaklari/):** Yumurta, peynir veya az yağlı süt ürünleri. Protein, tokluk hissini uzatır.
 - **Lif:** Tam tahıllı ekmek, yulaf veya sebzeler. Lif sindirimi destekler ve kan şekerini dengeler.
 - **Sağlıklı yağ:** Zeytin, zeytinyağı veya az miktarda ceviz, fındık gibi kuruyemişler.
 
@@ -32,11 +32,11 @@ Bu üçlü bir araya geldiğinde, hem doyurucu hem de dengeli bir başlangıç e
 
 ## Pratik Kahvaltı Örnekleri
 
-**Geleneksel sade tabak:** Haşlanmış yumurta, biraz peynir, domates, salatalık, zeytin ve tam tahıllı ekmek. Yanında şekersiz bir bitki çayı.
+**Geleneksel sade tabak:** Haşlanmış yumurta, biraz peynir, domates, salatalık, zeytin ve tam tahıllı ekmek. Yanında şekersiz bir [bitki çayı](/dogal-yasam/evde-bitki-cayi-harmani/).
 
 **Yulaflı seçenek:** Yulafı sütle veya suyla hazırlayın, üzerine mevsim meyvesi ve birkaç ceviz ekleyin.
 
-**Hatay usulü dokunuş:** Zahter, sızma zeytinyağı ve tam tahıllı ekmek; yanında peynir ve taze sebzeler.
+**Hatay usulü dokunuş:** [Zahter](/hatay-yoresel/zahter-nedir-faydalari/), [sızma zeytinyağı](/hatay-yoresel/sizma-zeytinyagi-rehberi/) ve tam tahıllı ekmek; yanında peynir ve taze sebzeler.
 
 ## Kahvaltıda Nelerden Kaçınmalı?
 

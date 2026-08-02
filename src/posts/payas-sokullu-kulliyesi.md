@@ -8,7 +8,7 @@ anahtarKelimeler: "Payas külliyesi, Sokullu Mehmet Paşa Külliyesi, Mimar Sina
 date: 2026-06-22
 guncelleme: 2026-06-27
 okuma: 7
-kapak: "/img/posts/zeytinyagi.jpg"
+kapak: "/img/posts/payas-sokullu-kulliyesi.webp"
 kapakAlt: "Payas Sokullu Mehmet Paşa Külliyesi, Hatay"
 sss:
   - s: "Payas Külliyesi'ni kim yaptırdı?"
@@ -19,7 +19,7 @@ sss:
     c: "Cin Kule (İskele Kulesi olarak da bilinir), denizden gelecek tehditleri engelleyip kıyıdaki tersane ve iskeleyi korumak amacıyla yapılmış bir gözetleme kulesidir. Restore edilmiş olup ziyarete açıktır."
 ---
 
-Hatay'ın Payas ilçesi, Osmanlı'nın ihtişamlı yıllarından bugüne uzanan eşsiz bir tarihi mirasa ev sahipliği yapar. İstanbul'u Halep, Şam ve Hicaz'a bağlayan hac ve İpek Yolu güzergahının tam üzerinde yer alan Payas, Mimar Sinan'ın elinden çıkma bir külliye, Haçlı dönemine uzanan bir kale ve dünyanın en yaşlı zeytin ağaçlarından biriyle, kültür turizmi meraklılarını zamanda bir yolculuğa çıkarır.
+Hatay'ın Payas ilçesi, Osmanlı'nın ihtişamlı yıllarından bugüne uzanan eşsiz bir tarihi mirasa ev sahipliği yapar. İstanbul'u Halep, Şam ve Hicaz'a bağlayan hac ve [İpek Yolu](/hatay-yoresel/hatay-ipegi-dokuma-gelenegi/) güzergahının tam üzerinde yer alan Payas, Mimar Sinan'ın elinden çıkma bir külliye, Haçlı dönemine uzanan bir kale ve dünyanın en yaşlı zeytin ağaçlarından biriyle, kültür turizmi meraklılarını zamanda bir yolculuğa çıkarır.
 
 ## Payas'ın Tarihteki Yeri
 
@@ -43,7 +43,7 @@ Külliye, bir "menzil külliyesi" olarak tasarlanmıştır; yani hac ve ticaret 
 
 ## Payas Kalesi
 
-Külliyenin hemen batısındaki Payas Kalesi'nin hikayesi daha da eskiye uzanır. Aslında bir Haçlı kalesi olan sekiz kuleli yapı, Haçlı seferleri sırasında Kudüs'e giden hacıların güvenliğini sağlamak için yapılmıştı. Osmanlı döneminde harap halden çıkarılarak külliyenin güvenliğini sağlayan önemli bir askeri üsse dönüştürüldü. Tarih boyunca bir dönem hapishane olarak da kullanılan kale, şair **Namık Kemal'in** Magosa'ya sürgün edilmeden önce bir süre hapis yattığı yer olmasıyla da bilinir.
+Külliyenin hemen batısındaki [Payas Kalesi](/hatayi-kesfet/payas-kale-cin-kule-dehliz/)'nin hikayesi daha da eskiye uzanır. Aslında bir Haçlı kalesi olan sekiz kuleli yapı, Haçlı seferleri sırasında Kudüs'e giden hacıların güvenliğini sağlamak için yapılmıştı. Osmanlı döneminde harap halden çıkarılarak külliyenin güvenliğini sağlayan önemli bir askeri üsse dönüştürüldü. Tarih boyunca bir dönem hapishane olarak da kullanılan kale, şair **Namık Kemal'in** Magosa'ya sürgün edilmeden önce bir süre hapis yattığı yer olmasıyla da bilinir.
 
 ## Cin Kule
 
@@ -57,7 +57,7 @@ Payas'ın belki de en şaşırtıcı hazinesi, külliyenin cami avlusunda yükse
 
 Payas'ı ziyaret ederken birkaç öneri:
 
-- Külliyeyi gezmeye başlamadan önce büyük avludan doğuya bakıp, başı bulutlarla kaplı **Amanos Dağları'nın** manzarasını izlemeyi unutmayın.
+- Külliyeyi gezmeye başlamadan önce büyük avludan doğuya bakıp, başı bulutlarla kaplı **[Amanos](/hatayi-kesfet/amanos-daglari-yaylalari/) Dağları'nın** manzarasını izlemeyi unutmayın.
 - Cami avlusundaki **Hünkar Zeytini'nin** gölgesinde birkaç dakika oturarak, asırların izini hissedebilirsiniz.
 - Külliye, kale ve Cin Kule'yi birlikte gezerek Payas'ın tüm tarihi dokusunu bir arada görebilirsiniz.
 - Payas, İskenderun'a yakın olduğu için günübirlik bir gezi için idealdir.

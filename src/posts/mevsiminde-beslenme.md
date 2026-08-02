@@ -6,7 +6,7 @@ anahtarKelimeler: "mevsiminde beslenme, mevsim sebzeleri, mevsim meyveleri, sağ
 date: 2026-06-19
 guncelleme: 2026-06-26
 okuma: 6
-kapak: "/img/posts/kahvalti.jpg"
+kapak: "/img/posts/mevsiminde-beslenme.webp"
 kapakAlt: "Mevsim sebze ve meyvelerinden oluşan sağlıklı sofra"
 sss:
   - s: "Mevsiminde beslenmek neden önemli?"
@@ -45,8 +45,8 @@ Hatay, Akdeniz ikliminin sunduğu zenginlikle dört mevsim farklı lezzetler bar
 - **Zeytin ve zeytinyağı:** Sonbahar hasadıyla yörenin en değerli ürünlerinden biri.
 - **Narenciye:** Kış aylarında portakal, mandalina ve limon bolluğu.
 - **Biber ve patlıcan:** Yaz aylarının vazgeçilmez sebzeleri, Hatay mutfağının temel taşları.
-- **Nar:** Sonbaharda olgunlaşan, hem taze hem nar ekşisi olarak kullanılan yöresel hazine.
-- **Yöresel otlar:** Zahter ve çeşitli dağ otları, mevsiminde toplanır.
+- **Nar:** Sonbaharda olgunlaşan, hem taze hem [nar ekşisi](/sifali-bitkiler/nar-eksisi-faydalari/) olarak kullanılan yöresel hazine.
+- **Yöresel otlar:** [Zahter](/hatay-yoresel/zahter-nedir-faydalari/) ve çeşitli dağ otları, mevsiminde toplanır.
 
 Bu çeşitlilik, Hatay sofralarını yıl boyu doğal ve dengeli kılar.
 

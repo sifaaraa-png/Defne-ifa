@@ -5,7 +5,7 @@ aciklama: "Hatay'ın simgesi zahter nedir, nasıl tüketilir ve hangi faydaları
 anahtarKelimeler: "zahter nedir, zahter faydaları, Hatay zahter, zahter kahvaltısı, zahter nasıl yenir"
 date: 2026-06-17
 okuma: 5
-kapak: "/img/posts/zahter.jpg"
+kapak: "/img/posts/zahter-nedir-faydalari.webp"
 kapakAlt: "Hatay zahter kahvaltısı, zeytinyağı ve nar ekşisiyle"
 sss:
   - s: "Zahter nasıl yenir?"
@@ -16,7 +16,7 @@ sss:
     c: "Zahterin kendisi düşük kalorilidir, ancak genellikle bol zeytinyağıyla tüketildiği için porsiyon miktarına dikkat etmek gerekir."
 ---
 
-Hatay'da bir kahvaltı sofrasına oturduysanız, büyük ihtimalle zahterle tanışmışsınızdır. Zeytinyağı ve nar ekşisiyle harmanlanan bu yöresel bitki, Hatay mutfağının en sevilen lezzetlerinden biridir. Peki zahter tam olarak nedir, hangi faydaları vardır ve nasıl tüketilir?
+Hatay'da bir kahvaltı sofrasına oturduysanız, büyük ihtimalle zahterle tanışmışsınızdır. Zeytinyağı ve [nar ekşisiyle](/sifali-bitkiler/nar-eksisi-faydalari/) harmanlanan bu yöresel bitki, Hatay mutfağının en sevilen lezzetlerinden biridir. Peki zahter tam olarak nedir, hangi faydaları vardır ve nasıl tüketilir?
 
 ## Zahter Nedir?
 
@@ -36,7 +36,7 @@ Zahter, aromatik bir bitki olarak geleneksel olarak şu yönleriyle bilinir:
 
 ## Zahter Nasıl Tüketilir?
 
-**Klasik zahter kahvaltısı:** Taze veya kuru zahter, sızma zeytinyağı ve nar ekşisiyle karıştırılır. İsteğe göre dövülmüş ceviz veya susam eklenir. Taze ekmekle servis edilir.
+**Klasik zahter kahvaltısı:** Taze veya kuru zahter, [sızma zeytinyağı](/hatay-yoresel/sizma-zeytinyagi-rehberi/) ve nar ekşisiyle karıştırılır. İsteğe göre dövülmüş ceviz veya susam eklenir. Taze ekmekle servis edilir.
 
 **Salatalarda:** Kuru zahter, salatalara aromatik bir dokunuş katmak için serpilebilir.
 
@@ -44,7 +44,7 @@ Zahter, aromatik bir bitki olarak geleneksel olarak şu yönleriyle bilinir:
 
 ## Taze ve Kuru Zahter
 
-Taze zahter, mevsiminde (genellikle ilkbahar) bulunur ve en aromatik halidir. Kuru zahter ise yıl boyu kullanılabilir; baharat olarak saklanır ve gerektiğinde zeytinyağıyla canlandırılır. Hatay aktarlarında her iki form da bulunabilir.
+Taze zahter, [mevsiminde](/saglikli-beslenme/mevsiminde-beslenme/) (genellikle ilkbahar) bulunur ve en aromatik halidir. Kuru zahter ise yıl boyu kullanılabilir; baharat olarak saklanır ve gerektiğinde zeytinyağıyla canlandırılır. Hatay aktarlarında her iki form da bulunabilir.
 
 ## Dikkat Edilmesi Gerekenler
 
