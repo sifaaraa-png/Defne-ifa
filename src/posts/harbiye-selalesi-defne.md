@@ -8,7 +8,7 @@ anahtarKelimeler: "Harbiye şelalesi, Daphne şelalesi, Defne Hatay gezilecek ye
 date: 2026-06-21
 guncelleme: 2026-06-27
 okuma: 6
-kapak: "/img/posts/defne-yapragi.jpg"
+kapak: "/img/posts/harbiye-selalesi-defne.webp"
 kapakAlt: "Harbiye Şelalesi, Defne, Hatay"
 sss:
   - s: "Harbiye Şelalesi nerede?"
@@ -19,17 +19,17 @@ sss:
     c: "Harbiye Şelalesi açık bir mesire alanıdır ve ziyaret için belirli bir saat sınırı yoktur. Çevresinde çay bahçeleri, restoranlar ve yöresel ürün tezgahları bulunur."
 ---
 
-Hatay'ın Defne ilçesinde, antik çağlardan bu yana ünü dilden dile dolaşan bir doğa harikası vardır: Harbiye Şelalesi. Eski adıyla **Daphne** olarak bilinen bu çağlayanlar bölgesi, hem serin suları hem de binlerce yıllık mitolojik hikayesiyle, Hatay'a gelen herkesin görmesi gereken yerlerin başında gelir. Bu rehberde Harbiye'nin hikayesini, tarihçesini ve nasıl gidileceğini ele alıyoruz.
+Hatay'ın Defne ilçesinde, antik çağlardan bu yana ünü dilden dile dolaşan bir doğa harikası vardır: Harbiye Şelalesi. Eski adıyla **[Daphne](/hatayi-kesfet/defne-daphne-efsanesi/)** olarak bilinen bu çağlayanlar bölgesi, hem serin suları hem de binlerce yıllık mitolojik hikayesiyle, Hatay'a gelen herkesin görmesi gereken yerlerin başında gelir. Bu rehberde Harbiye'nin hikayesini, tarihçesini ve nasıl gidileceğini ele alıyoruz.
 
 ## Harbiye Nerede?
 
-Harbiye, Antakya şehir merkezine yaklaşık 8 kilometre uzaklıkta, Defne ilçesine bağlı bir mahalledir. Platonun güneyinden fışkıran kaynaklar, küçük çağlayanlar oluşturduktan sonra Asi nehrine karışır. Yemyeşil bir vadinin içinde yer alan bu bölge, çınar ve defne ağaçlarının gölgesinde serin bir sığınak sunar.
+Harbiye, Antakya şehir merkezine yaklaşık 8 kilometre uzaklıkta, Defne ilçesine bağlı bir mahalledir. Platonun güneyinden fışkıran kaynaklar, küçük çağlayanlar oluşturduktan sonra [Asi nehrine](/hatayi-kesfet/asi-nehri/) karışır. Yemyeşil bir vadinin içinde yer alan bu bölge, çınar ve defne ağaçlarının gölgesinde serin bir sığınak sunar.
 
 ## Antik Çağlardan Bir Sayfiye
 
 Harbiye'nin tarihi oldukça eskidir. Helenistik ve Roma dönemlerinde çağlayanlarıyla tanınan ve dünyaca ünlü bir sayfiye yeri olarak kullanılan Daphne, zengin halk kesimi tarafından yapılan çok sayıda köşkleri, tapınakları ve eğlence yerleriyle ünlüydü. Antik dönemde bölgedeki kaynaklar Kastalia, Pallas ve Saramanna isimleriyle anılırdı.
 
-Ne yazık ki bu görkemli dönemlerden günümüze ayakta kalan bir yapı pek kalmamıştır; şiddetli depremler zaman içinde antik eserleri yok etmiştir. Ancak doğal güzelliği, binlerce yıl öncesinde olduğu gibi bugün de ziyaretçilerini büyülemeye devam eder.
+Ne yazık ki bu görkemli dönemlerden günümüze ayakta kalan bir yapı pek kalmamıştır; şiddetli [depremler](/hatay-deprem/) zaman içinde antik eserleri yok etmiştir. Ancak doğal güzelliği, binlerce yıl öncesinde olduğu gibi bugün de ziyaretçilerini büyülemeye devam eder.
 
 ## Defne ve Apollon Efsanesi
 
@@ -45,8 +45,8 @@ Günümüzde Harbiye, hem yerli hem yabancı turistlerin uğrak yeridir. Şelale
 
 - Serin, ağaç gölgeli **çay bahçeleri**
 - Yöresel Hatay lezzetleri sunan **restoranlar**
-- **Defne sabunu, zahter ve zeytin** gibi yöresel ürünlerin satıldığı tezgahlar
-- Doğa içinde yürüyüş ve dinlenme alanları
+- **[Defne sabunu](/hatay-yoresel/hatay-defne-sabunu/), [zahter](/hatay-yoresel/zahter-nedir-faydalari/) ve zeytin** gibi yöresel ürünlerin satıldığı tezgahlar
+- Doğa içinde [yürüyüş](/yasam-kalitesi/duzenli-yuruyus-faydalari/) ve dinlenme alanları
 
 bulunur. Özellikle sıcak yaz günlerinde, suyun serinliği ve yeşilin huzuru, şehir yorgunluğunu atmak için ideal bir ortam sunar.
 

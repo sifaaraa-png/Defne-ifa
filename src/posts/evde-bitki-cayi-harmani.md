@@ -5,7 +5,7 @@ aciklama: "Kendi bitki çayı harmanınızı evde nasıl hazırlarsınız? Hangi
 anahtarKelimeler: "bitki çayı harmanı, evde bitki çayı, çay harmanlama, doğal çay nasıl yapılır"
 date: 2026-06-11
 okuma: 5
-kapak: "/img/posts/bitki-cayi.jpg"
+kapak: "/img/posts/evde-bitki-cayi-harmani.webp"
 kapakAlt: "Kavanozlarda kuru bitki çayı harmanları"
 sss:
   - s: "Bitki çayı harmanında kaç bitki kullanmalı?"
@@ -26,12 +26,12 @@ Kendi harmanınızı hazırladığınızda içine ne koyduğunuzu tam olarak bil
 
 Bitki çayı harmanlarında sık kullanılan, birbiriyle uyumlu bazı bitkiler:
 
-- **Ihlamur:** Yumuşak, hafif tatlımsı bir tat verir.
-- **Adaçayı:** Aromatik ve ferahlatıcıdır; ölçülü kullanılmalıdır.
-- **Nane:** Ferahlık katar, çoğu harmanla uyumludur.
-- **Kuşburnu:** Hafif ekşi, canlandırıcı bir tat verir.
-- **Defne yaprağı:** Az miktarda eklendiğinde aromatik bir derinlik katar.
-- **Zencefil:** Keskin ve ısıtıcı bir nota ekler.
+- **[Ihlamur](/sifali-bitkiler/ihlamur-cayi-faydalari/):** Yumuşak, hafif tatlımsı bir tat verir.
+- **[Adaçayı](/sifali-bitkiler/adacayi-faydalari-demleme/):** Aromatik ve ferahlatıcıdır; ölçülü kullanılmalıdır.
+- **[Nane](/sifali-bitkiler/nane-faydalari-kullanimi/):** Ferahlık katar, çoğu harmanla uyumludur.
+- **[Kuşburnu](/sifali-bitkiler/kusburnu-faydalari/):** Hafif ekşi, canlandırıcı bir tat verir.
+- **[Defne yaprağı](/sifali-bitkiler/defne-yapragi-faydalari/):** Az miktarda eklendiğinde aromatik bir derinlik katar.
+- **[Zencefil](/sifali-bitkiler/zencefil-faydalari-kullanimi/):** Keskin ve ısıtıcı bir nota ekler.
 
 > Harman yaparken "az çoktur" ilkesini unutmayın. Üç-dört bitkilik sade bir harman, çok sayıda bitkinin karışımından genellikle daha dengelidir.
 

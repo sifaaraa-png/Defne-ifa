@@ -6,7 +6,7 @@ anahtarKelimeler: "yürüyüşün faydaları, günlük yürüyüş, düzenli yü
 date: 2026-06-19
 guncelleme: 2026-06-26
 okuma: 5
-kapak: "/img/posts/su-icmek.jpg"
+kapak: "/img/posts/duzenli-yuruyus-faydalari.webp"
 kapakAlt: "Doğada yürüyüş ve sağlıklı yaşam"
 sss:
   - s: "Günde ne kadar yürümek yeterli?"
@@ -28,8 +28,8 @@ Yürüyüş, bedenin en doğal hareketidir. Koşu gibi eklemleri zorlamaz, yüzm
 Düzenli yürüyüşün hem bedensel hem zihinsel pek çok yararı vardır:
 
 - **Bedensel zindelik:** Kasları çalıştırır, dolaşımı destekler ve genel enerjiyi artırır.
-- **Zihinsel ferahlık:** Açık havada yürümek, zihni dinlendirir ve stresi azaltmaya yardımcı bulunur.
-- **Uyku kalitesi:** Düzenli hareket, gece daha rahat uyumayı destekler.
+- **Zihinsel ferahlık:** Açık havada yürümek, zihni dinlendirir ve [stresi](/yasam-kalitesi/gunluk-stres-icin-nefes-egzersizleri/) azaltmaya yardımcı bulunur.
+- **[Uyku](/yasam-kalitesi/kaliteli-uyku-onerileri/) kalitesi:** Düzenli hareket, gece daha rahat uyumayı destekler.
 - **Alışkanlık kolaylığı:** Başlaması ve sürdürmesi en kolay aktivitelerden biridir.
 
 > Yürüyüşün en güçlü yanı, mükemmel olmasını gerektirmemesidir. Hızlı ya da yavaş, kısa ya da uzun; önemli olan düzenli olarak hareket etmektir.

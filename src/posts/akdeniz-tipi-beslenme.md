@@ -6,7 +6,7 @@ anahtarKelimeler: "Akdeniz tipi beslenme, Akdeniz diyeti, zeytinyağı beslenme,
 date: 2026-06-20
 guncelleme: 2026-06-26
 okuma: 6
-kapak: "/img/posts/zeytinyagi.jpg"
+kapak: "/img/posts/akdeniz-tipi-beslenme.webp"
 kapakAlt: "Zeytinyağı, sebze ve baklagillerden oluşan Akdeniz sofrası"
 sss:
   - s: "Akdeniz tipi beslenme nedir?"
@@ -21,9 +21,9 @@ Akdeniz tipi beslenme, dünyada en çok araştırılan ve en sağlıklı kabul e
 
 ## Akdeniz Tipi Beslenme Nedir?
 
-Akdeniz tipi beslenme, katı kurallar listesi değil, bir yaşam tarzıdır. Temelinde doğal, taze ve mevsiminde gıdalar yer alır. İşlenmiş ürünlerin az, sebze ve baklagillerin bol olduğu bu model, Akdeniz halklarının yüzyıllardır süregelen geleneksel beslenme biçiminden ilham alır.
+Akdeniz tipi beslenme, katı kurallar listesi değil, bir yaşam tarzıdır. Temelinde doğal, taze ve [mevsiminde](/saglikli-beslenme/mevsiminde-beslenme/) gıdalar yer alır. İşlenmiş ürünlerin az, sebze ve [baklagillerin](/saglikli-beslenme/baklagillerle-saglikli-beslenme/) bol olduğu bu model, Akdeniz halklarının yüzyıllardır süregelen geleneksel beslenme biçiminden ilham alır.
 
-En belirgin özelliği, sağlıklı yağ kaynağı olarak **sızma zeytinyağının** merkezde olmasıdır. Tereyağı veya katı yağlar yerine zeytinyağı kullanmak, bu beslenmenin temel taşıdır.
+En belirgin özelliği, sağlıklı yağ kaynağı olarak **[sızma zeytinyağının](/hatay-yoresel/sizma-zeytinyagi-rehberi/)** merkezde olmasıdır. Tereyağı veya katı yağlar yerine zeytinyağı kullanmak, bu beslenmenin temel taşıdır.
 
 ## Akdeniz Beslenmesinin Temel Bileşenleri
 
@@ -31,11 +31,11 @@ Bu beslenme modelinde öne çıkan gıdalar şunlardır:
 
 - **Sızma zeytinyağı:** Ana yağ kaynağı; salatalarda çiğ, yemeklerde ölçülü kullanılır.
 - **Sebze ve meyveler:** Her öğünün merkezinde, mevsiminde ve bol miktarda.
-- **Baklagiller:** Nohut, mercimek, fasulye gibi bitkisel protein kaynakları.
-- **Tam tahıllar:** Tam buğday ekmeği, bulgur gibi rafine olmayan tahıllar.
+- **Baklagiller:** Nohut, mercimek, fasulye gibi bitkisel [protein](/saglikli-beslenme/gunluk-protein-ihtiyaci-ve-kaynaklari/) kaynakları.
+- **Tam tahıllar:** [Tam buğday](/saglikli-beslenme/hangi-ekmek-daha-saglikli/) ekmeği, bulgur gibi rafine olmayan tahıllar.
 - **Kuruyemiş ve tohumlar:** Ceviz, badem gibi sağlıklı yağ ve protein kaynakları.
 - **Balık:** Haftada birkaç kez, kırmızı ete tercih edilerek.
-- **Otlar ve baharatlar:** Zahter, kekik, nane gibi doğal aroma kaynakları, tuz yerine lezzet için.
+- **Otlar ve baharatlar:** [Zahter](/hatay-yoresel/zahter-nedir-faydalari/), kekik, nane gibi doğal aroma kaynakları, tuz yerine lezzet için.
 
 > Akdeniz tipi beslenme bir "diyet" değil, sürdürülebilir bir yaşam tarzıdır. Yasaklardan çok, doğal ve dengeli seçimlere odaklanır.
 

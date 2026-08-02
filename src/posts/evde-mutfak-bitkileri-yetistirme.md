@@ -6,7 +6,7 @@ anahtarKelimeler: "evde bitki yetiştirme, balkonda bitki, mutfak bitkileri, evd
 date: 2026-06-20
 guncelleme: 2026-06-26
 okuma: 6
-kapak: "/img/posts/defne-yapragi.jpg"
+kapak: "/img/posts/evde-mutfak-bitkileri-yetistirme.webp"
 kapakAlt: "Pencere önünde saksıda yetişen mutfak bitkileri"
 sss:
   - s: "Evde hangi bitkiler kolay yetişir?"
@@ -17,7 +17,7 @@ sss:
     c: "Çoğu mutfak bitkisi bol güneş ister. Az ışık alan evlerde nane gibi daha dayanıklı bitkiler tercih edilebilir, ancak en azından birkaç saat ışık alan bir pencere önü idealdir."
 ---
 
-Taze fesleğeni makarnaya, nane yaprağını çaya elinizin altından koparmak... Evde mutfak bitkileri yetiştirmek, hem keyifli bir uğraş hem de doğal yaşama atılan güzel bir adımdır. Üstelik geniş bir bahçeye ihtiyacınız yok; bir pencere önü veya küçük bir balkon bile yeterli. Bu rehberde yeni başlayanlar için evde bitki yetiştirmenin temellerini ele alıyoruz.
+Taze fesleğeni makarnaya, [nane](/sifali-bitkiler/nane-faydalari-kullanimi/) yaprağını çaya elinizin altından koparmak... Evde mutfak bitkileri yetiştirmek, hem keyifli bir uğraş hem de doğal yaşama atılan güzel bir adımdır. Üstelik geniş bir bahçeye ihtiyacınız yok; bir pencere önü veya küçük bir balkon bile yeterli. Bu rehberde yeni başlayanlar için evde bitki yetiştirmenin temellerini ele alıyoruz.
 
 ## Neden Evde Bitki Yetiştirmeli?
 
@@ -29,7 +29,7 @@ Yeni başlıyorsanız, dayanıklı ve hızlı yetişen bitkilerle başlamak moti
 
 - **Nane:** Çok dayanıklıdır, hızlı büyür. Çaydan limonataya pek çok yerde kullanılır.
 - **Fesleğen:** Güneşi sever, aromatiktir. Makarna ve salatalara taze lezzet katar.
-- **Maydanoz:** Hemen her yemekte kullanılır, yetiştirmesi kolaydır.
+- **[Maydanoz](/sifali-bitkiler/maydanoz-faydalari/):** Hemen her yemekte kullanılır, yetiştirmesi kolaydır.
 - **Dereotu:** Az yer kaplar, balık ve sebze yemeklerine yakışır.
 - **Kekik:** Dayanıklıdır, az suyla idare eder, aromatiktir.
 

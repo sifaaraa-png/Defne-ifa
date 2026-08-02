@@ -5,7 +5,7 @@ aciklama: "Günlük su ihtiyacı kişiden kişiye nasıl değişir, yeterince su
 anahtarKelimeler: "günde ne kadar su içmeli, su tüketimi, yeterli su içmek, su içme alışkanlığı"
 date: 2026-06-12
 okuma: 4
-kapak: "/img/posts/su-icmek.jpg"
+kapak: "/img/posts/gunde-ne-kadar-su-icmeli.webp"
 kapakAlt: "Bir bardak temiz su"
 sss:
   - s: "Günde kaç bardak su içmeliyim?"
@@ -49,6 +49,6 @@ Su içmeyi unutuyorsanız, birkaç küçük alışkanlık işe yarar:
 
 ## Çay ve Kahve Sayılır mı?
 
-Çay ve kahve de sıvı alımına katkı sağlar, ancak kafein içerdikleri için suyun tamamen yerini tutmazlar. Şekerli içecekler ise sıvı ihtiyacını karşılamak için iyi bir seçenek değildir.
+Çay ve kahve de sıvı alımına katkı sağlar, ancak [kafein](/yasam-kalitesi/kafeini-dengeli-tuketme-rehberi/) içerdikleri için suyun tamamen yerini tutmazlar. Şekerli içecekler ise sıvı ihtiyacını karşılamak için iyi bir seçenek değildir.
 
 Su içmek, sağlıklı yaşamın en basit ama en etkili alışkanlıklarından biridir. Karmaşık hesaplara gerek yok; bedeninizi dinleyin, düzenli için ve suyu günlük yaşamınızın doğal bir parçası haline getirin.

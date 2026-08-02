@@ -6,7 +6,7 @@ anahtarKelimeler: "ihlamur faydaları, ihlamur çayı nasıl demlenir, ihlamur n
 date: 2026-06-20
 guncelleme: 2026-06-26
 okuma: 5
-kapak: "/img/posts/bitki-cayi.jpg"
+kapak: "/img/posts/ihlamur-cayi-faydalari.webp"
 kapakAlt: "Kurutulmuş ihlamur çiçekleri ve bitki çayı"
 sss:
   - s: "Ihlamur çayı neye iyi gelir?"
@@ -21,7 +21,7 @@ Ihlamur, kış aylarının vazgeçilmez bitki çaylarından biridir. Soğuk hava
 
 ## Ihlamur Nedir?
 
-Ihlamur, ılıman iklimlerde yetişen ihlamur ağacının kurutulmuş çiçek ve yapraklarından elde edilir. Sarımsı, hafif tatlımsı bir aroması vardır. Türkiye'nin pek çok bölgesinde olduğu gibi, Hatay ve çevresinde de geleneksel olarak tüketilen, sevilen bir bitki çayıdır.
+Ihlamur, ılıman iklimlerde yetişen ihlamur ağacının [kurutulmuş](/dogal-yasam/sifali-bitkileri-kurutma-saklama/) çiçek ve yapraklarından elde edilir. Sarımsı, hafif tatlımsı bir aroması vardır. Türkiye'nin pek çok bölgesinde olduğu gibi, Hatay ve çevresinde de geleneksel olarak tüketilen, sevilen bir [bitki çayıdır](/dogal-yasam/evde-bitki-cayi-harmani/).
 
 İhlamurun değeri, içerdiği doğal aromatik bileşenlerden ve hafif yatıştırıcı özelliğinden gelir. Bu yüzden özellikle akşamları, günün yorgunluğunu atmak için tercih edilir.
 
@@ -48,7 +48,7 @@ Ihlamur kaynatılmaz, yalnızca sıcak suda bekletilir. Uzun süre kaynatmak hem
 
 ## Diğer Bitkilerle Harmanlama
 
-Ihlamur, pek çok bitkiyle uyumludur. Nane ile ferahlık, kuşburnu ile hafif ekşilik, az miktarda zencefil ile ısıtıcı bir nota kazandırılabilir. Kendi kış harmanınızı oluştururken ihlamuru temel alabilirsiniz.
+Ihlamur, pek çok bitkiyle uyumludur. [Nane](/sifali-bitkiler/nane-faydalari-kullanimi/) ile ferahlık, [kuşburnu](/sifali-bitkiler/kusburnu-faydalari/) ile hafif ekşilik, az miktarda [zencefil](/sifali-bitkiler/zencefil-faydalari-kullanimi/) ile ısıtıcı bir nota kazandırılabilir. Kendi kış harmanınızı oluştururken ihlamuru temel alabilirsiniz.
 
 ## Nelere Dikkat Etmeli?
 
@@ -59,6 +59,6 @@ Ihlamur, pek çok bitkiyle uyumludur. Nane ile ferahlık, kuşburnu ile hafif ek
 
 ## Hatay'da Bitki Çayı Geleneği
 
-Hatay, zengin bitki kültürüyle bilinen bir bölgedir. İskenderun, Antakya ve çevre ilçelerdeki aktarlarda ihlamur, adaçayı, zahter gibi pek çok bitki kolayca bulunur. Bu köklü gelenek, doğal yaşamın ve şifalı bitkilerin bölge kültüründeki yerini gösterir.
+Hatay, zengin bitki kültürüyle bilinen bir bölgedir. İskenderun, Antakya ve çevre ilçelerdeki aktarlarda ihlamur, [adaçayı](/sifali-bitkiler/adacayi-faydalari-demleme/), zahter gibi pek çok bitki kolayca bulunur. Bu köklü gelenek, doğal yaşamın ve şifalı bitkilerin bölge kültüründeki yerini gösterir.
 
 Ihlamur, doğru demlendiğinde kış günlerinize sıcak ve huzurlu bir mola katar. Onu sade, doğal ve keyifli bir alışkanlık olarak benimsemek, doğanın sunduğu küçük güzelliklerden biridir.

@@ -6,7 +6,7 @@ anahtarKelimeler: "adaçayı faydaları, adaçayı nasıl demlenir, adaçayı ç
 date: 2026-06-19
 guncelleme: 2026-06-26
 okuma: 5
-kapak: "/img/posts/bitki-cayi.jpg"
+kapak: "/img/posts/adacayi-faydalari-demleme.webp"
 kapakAlt: "Kurutulmuş adaçayı yaprakları ve bitki çayı"
 sss:
   - s: "Adaçayı her gün içilebilir mi?"
@@ -17,11 +17,11 @@ sss:
     c: "Bir tatlı kaşığı kuru adaçayı, bir bardak kaynar suya eklenir ve 5-7 dakika demlenir. Süzülerek içilir; uzun süre kaynatmaktan kaçınmak aromasını korur."
 ---
 
-Adaçayı, Akdeniz ikliminin en köklü şifalı bitkilerinden biridir ve Hatay başta olmak üzere bölgenin doğal bitki örtüsünde sıkça karşımıza çıkar. Kendine özgü aromatik kokusu ve geleneksel kullanımıyla, hem mutfakta hem de bitki çayı olarak yüzyıllardır değer görür. Bu rehberde adaçayının bilinen faydalarını, doğru kullanımını ve nelere dikkat edilmesi gerektiğini sade bir dille ele alıyoruz.
+Adaçayı, Akdeniz ikliminin en köklü şifalı bitkilerinden biridir ve Hatay başta olmak üzere bölgenin doğal bitki örtüsünde sıkça karşımıza çıkar. Kendine özgü aromatik kokusu ve geleneksel kullanımıyla, hem mutfakta hem de [bitki çayı](/dogal-yasam/evde-bitki-cayi-harmani/) olarak yüzyıllardır değer görür. Bu rehberde adaçayının bilinen faydalarını, doğru kullanımını ve nelere dikkat edilmesi gerektiğini sade bir dille ele alıyoruz.
 
 ## Adaçayı Nedir?
 
-Adaçayı (*Salvia*), nane ailesinden, tüylü ve grimsi yeşil yapraklara sahip aromatik bir bitkidir. Akdeniz coğrafyasının kuru ve güneşli yamaçlarında doğal olarak yetişir. Hatay'ın dağlık bölgelerinde de kendiliğinden yetişen adaçayı, yörede hem taze hem de kurutulmuş olarak kullanılır.
+Adaçayı (*Salvia*), [nane](/sifali-bitkiler/nane-faydalari-kullanimi/) ailesinden, tüylü ve grimsi yeşil yapraklara sahip aromatik bir bitkidir. Akdeniz coğrafyasının kuru ve güneşli yamaçlarında doğal olarak yetişir. Hatay'ın dağlık bölgelerinde de kendiliğinden yetişen adaçayı, yörede hem taze hem de [kurutulmuş](/dogal-yasam/sifali-bitkileri-kurutma-saklama/) olarak kullanılır.
 
 Bitkinin değeri, içerdiği uçucu aromatik yağlardan gelir. Bu yağlar adaçayına hem karakteristik kokusunu hem de geleneksel olarak atfedilen ferahlatıcı etkilerini kazandırır.
 

@@ -6,7 +6,7 @@ anahtarKelimeler: "doğal temizlik, evde doğal temizlik, sirke ile temizlik, ka
 date: 2026-06-19
 guncelleme: 2026-06-26
 okuma: 6
-kapak: "/img/posts/bitki-cayi.jpg"
+kapak: "/img/posts/evde-dogal-temizlik.webp"
 kapakAlt: "Doğal temizlik için sirke, karbonat ve limon"
 sss:
   - s: "Sirke ile neler temizlenir?"
@@ -57,7 +57,7 @@ Limon, hem temizleyici hem de hoş kokulu bir doğal malzemedir:
 
 **Lavabo macunu:** Karbonatı az suyla macun kıvamına getirin, lavaboya sürün, birkaç dakika bekletip ovalayın.
 
-**Doğal oda ferahlatıcı:** Bir kaba su, birkaç dilim limon ve isteğe göre defne yaprağı koyup hafifçe ısıtın; ev doğal bir ferahlığa kavuşur.
+**Doğal oda ferahlatıcı:** Bir kaba su, birkaç dilim limon ve isteğe göre [defne yaprağı](/sifali-bitkiler/defne-yapragi-faydalari/) koyup hafifçe ısıtın; ev doğal bir ferahlığa kavuşur.
 
 ## Dikkat Edilmesi Gerekenler
 
