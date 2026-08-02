@@ -6,7 +6,7 @@ anahtarKelimeler: "kaliteli uyku, uyku düzeni, iyi uyku için öneriler, doğal
 date: 2026-06-20
 guncelleme: 2026-06-26
 okuma: 5
-kapak: "/img/posts/su-icmek.jpg"
+kapak: "/img/posts/kaliteli-uyku-onerileri.webp"
 kapakAlt: "Huzurlu ve dinlendirici bir uyku ortamı"
 sss:
   - s: "Daha iyi uyumak için ne yapmalı?"
@@ -17,7 +17,7 @@ sss:
     c: "Çoğu yetişkin için gecede 7-9 saat uyku önerilir, ancak ihtiyaç kişiden kişiye değişir. Önemli olan sürenin yanı sıra uykunun kalitesi ve düzenidir."
 ---
 
-İyi bir gün, iyi bir gecenin ardından gelir. Uyku, bedenimizin ve zihnimizin kendini onardığı en değerli zamandır. Ancak modern yaşamın temposu, ekranlar ve stres, kaliteli uykuyu giderek zorlaştırıyor. Bu yazıda daha huzurlu ve dinlendirici bir uyku için doğal, sade önerileri ele alıyoruz.
+İyi bir gün, iyi bir gecenin ardından gelir. Uyku, bedenimizin ve zihnimizin kendini onardığı en değerli zamandır. Ancak modern yaşamın temposu, [ekranlar](/yasam-kalitesi/ekran-yorgunluguna-dogal-cozumler/) ve [stres](/yasam-kalitesi/gunluk-stres-icin-nefes-egzersizleri/), kaliteli uykuyu giderek zorlaştırıyor. Bu yazıda daha huzurlu ve dinlendirici bir uyku için doğal, sade önerileri ele alıyoruz.
 
 ## Uyku Neden Bu Kadar Önemli?
 
@@ -28,10 +28,10 @@ Uyku, yalnızca dinlenmek değildir. Gün boyu yorulan beden bu sırada kendini 
 Daha iyi bir uyku için günlük yaşamınıza katabileceğiniz doğal alışkanlıklar:
 
 - **Düzenli uyku saati:** Her gün aynı saatte yatıp kalkmak, bedeninizin doğal ritmini güçlendirir.
-- **Ekranlardan uzaklaşma:** Yatmadan en az yarım saat önce telefon ve ekranları bırakmak, daha kolay uykuya geçmeyi sağlar.
+- **Ekranlardan uzaklaşma:** Yatmadan en az yarım saat önce [telefon](/yasam-kalitesi/telefon-kullanimini-azaltmanin-yollari/) ve ekranları bırakmak, daha kolay uykuya geçmeyi sağlar.
 - **Karanlık ve sessiz ortam:** Loş, serin ve sessiz bir oda, derin uykuyu destekler.
 - **Akşam hafif beslenme:** Yatmadan hemen önce ağır yemeklerden kaçınmak, rahat bir uykuya yardımcı olur.
-- **Kafeini sınırlama:** Akşam saatlerinde çay, kahve gibi kafeinli içecekleri azaltmak iyi olur.
+- **[Kafeini](/yasam-kalitesi/kafeini-dengeli-tuketme-rehberi/) sınırlama:** Akşam saatlerinde çay, kahve gibi kafeinli içecekleri azaltmak iyi olur.
 
 > Kaliteli uyku, tek bir mucize çözümle değil, küçük ve düzenli alışkanlıkların birikimiyle gelir. Bedeninize her gece aynı sinyalleri vermek, onu uykuya hazırlar.
 
@@ -40,7 +40,7 @@ Daha iyi bir uyku için günlük yaşamınıza katabileceğiniz doğal alışkan
 Uykuya geçişi kolaylaştırmak için akşam bir rahatlama rutini oluşturabilirsiniz:
 
 - Ilık bir duş, bedeni gevşetir.
-- Ihlamur veya papatya gibi yatıştırıcı bir bitki çayı, geleneksel olarak akşam rahatlaması için tercih edilir.
+- [Ihlamur](/sifali-bitkiler/ihlamur-cayi-faydalari/) veya [papatya](/sifali-bitkiler/papatya-cayi-faydalari/) gibi yatıştırıcı bir bitki çayı, geleneksel olarak akşam rahatlaması için tercih edilir.
 - Hafif bir kitap okumak, zihni ekranlardan uzaklaştırır.
 - Birkaç dakika derin ve sakin nefes almak, bedeni dinlenmeye hazırlar.
 
