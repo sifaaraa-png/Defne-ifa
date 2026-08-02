@@ -38,6 +38,7 @@ collections:
           - { label: "Tarihi Yerler", value: "tarihi-yerler" }
           - { label: "Türbe ve Makamlar", value: "turbeler" }
           - { label: "Doğal Güzellikler", value: "dogal-guzellikler" }
+          - { label: "Gastronomi ve Lezzetler", value: "gastronomi" }
       - { label: "İlçe (sadece Hatay'ı Keşfet için)", name: "ilce", widget: "string", required: false, hint: "Örn: İskenderun, Antakya, Payas..." }
       - { label: "Kısa Açıklama (SEO)", name: "aciklama", widget: "text", hint: "Arama sonuçlarında görünecek özet. 150-160 karakter ideal." }
       - { label: "Anahtar Kelimeler", name: "anahtarKelimeler", widget: "string", required: false, hint: "Virgülle ayırın." }

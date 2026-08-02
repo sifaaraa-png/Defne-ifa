@@ -37,7 +37,8 @@ module.exports = {
     { slug: "gezilecek-yerler", ad: "Gezilecek Yerler", ikon: "🏞️" },
     { slug: "tarihi-yerler", ad: "Tarihi Yerler", ikon: "🏛️" },
     { slug: "turbeler", ad: "Türbe ve Makamlar", ikon: "🕌" },
-    { slug: "dogal-guzellikler", ad: "Doğal Güzellikler", ikon: "🌄" }
+    { slug: "dogal-guzellikler", ad: "Doğal Güzellikler", ikon: "🌄" },
+    { slug: "gastronomi", ad: "Gastronomi ve Lezzetler", ikon: "🍽️" }
   ],
   // Hatay ilçeleri (dropdown menü için)
   ilceler: [
