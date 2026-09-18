@@ -1,0 +1,4 @@
+{
+  "layout": "makale.njk",
+  "permalink": "/{{ kategori }}/{{ page.fileSlug }}/"
+}

@@ -1,0 +1,13 @@
+# Bağımlılıklar
+node_modules/
+
+# Eleventy build çıktısı (Netlify kendi üretir)
+_site/
+
+# Sistem/editör dosyaları
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Ortam değişkenleri (varsa)
+.env
