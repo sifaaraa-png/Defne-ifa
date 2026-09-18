@@ -8,7 +8,7 @@ anahtarKelimeler: "Arsuz plajları, Arsuz deniz, Arsuz tatil, Arsuz gezilecek ye
 date: 2026-08-20
 guncelleme: 2026-08-20
 okuma: 4
-kapak: "/img/posts/arsuz-yanartas-sonmeyen-ates.webp"
+kapak: "/img/posts/iskenderun-sahil-yamac-parasutu.webp"
 kapakAlt: "Arsuz sahilinden bir görünüm"
 sss:
   - s: "Arsuz plajları hangi mevsimde en uygun?"

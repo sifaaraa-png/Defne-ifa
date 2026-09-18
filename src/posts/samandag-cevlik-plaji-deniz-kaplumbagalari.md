@@ -8,7 +8,7 @@ anahtarKelimeler: "Çevlik plajı, Samandağ deniz kaplumbağaları, Caretta car
 date: 2026-08-20
 guncelleme: 2026-08-20
 okuma: 4
-kapak: "/img/posts/vakifli-koyu.webp"
+kapak: "/img/posts/iskenderun-sahil-yamac-parasutu.webp"
 kapakAlt: "Samandağ Çevlik plajı ve Akdeniz sahili"
 sss:
   - s: "Çevlik plajı neden önemli?"

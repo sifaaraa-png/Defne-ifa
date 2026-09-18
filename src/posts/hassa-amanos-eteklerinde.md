@@ -8,7 +8,7 @@ anahtarKelimeler: "Hassa gezilecek yerler, Hassa Hatay, Hassa Amanos, Hassa ilç
 date: 2026-08-20
 guncelleme: 2026-08-20
 okuma: 5
-kapak: "/img/posts/amanos-daglari-yaylalari.webp"
+kapak: "/img/posts/hatay-tarihcesi.webp"
 kapakAlt: "Hassa ilçesinin Amanos Dağları'na bakan manzarası"
 sss:
   - s: "Hassa, Hatay'ın neresinde yer alır?"

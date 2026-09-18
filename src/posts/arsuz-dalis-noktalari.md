@@ -8,7 +8,7 @@ anahtarKelimeler: "Arsuz dalış, Arsuz su sporları, Arsuz deniz altı, Hatay d
 date: 2026-08-20
 guncelleme: 2026-08-20
 okuma: 4
-kapak: "/img/posts/arsuz-yanartas-sonmeyen-ates.webp"
+kapak: "/img/posts/hatay-kanyonlari.webp"
 kapakAlt: "Arsuz kıyısında berrak Akdeniz suları"
 sss:
   - s: "Arsuz'da dalış için hangi mevsim uygun?"

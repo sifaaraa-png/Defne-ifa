@@ -8,7 +8,7 @@ anahtarKelimeler: "Dörtyol narenciye, Dörtyol portakal, Dörtyol Hatay, Dörty
 date: 2026-08-20
 guncelleme: 2026-08-20
 okuma: 4
-kapak: "/img/posts/dortyol-ilk-kursun.webp"
+kapak: "/img/posts/amik-golu.webp"
 kapakAlt: "Dörtyol çevresindeki narenciye bahçeleri"
 sss:
   - s: "Dörtyol neden narenciye üretimiyle ünlü?"

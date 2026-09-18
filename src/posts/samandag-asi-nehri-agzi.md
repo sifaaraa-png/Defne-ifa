@@ -8,7 +8,7 @@ anahtarKelimeler: "Asi Nehri Samandağ, Asi Nehri Akdeniz, Samandağ delta, Asi 
 date: 2026-08-20
 guncelleme: 2026-08-20
 okuma: 4
-kapak: "/img/posts/vakifli-koyu.webp"
+kapak: "/img/posts/asi-nehri.webp"
 kapakAlt: "Asi Nehri'nin Samandağ'da Akdeniz'e döküldüğü delta bölgesi"
 sss:
   - s: "Asi Nehri nereden doğar ve ne kadar uzundur?"

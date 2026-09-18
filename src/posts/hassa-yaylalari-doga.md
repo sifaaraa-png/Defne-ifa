@@ -8,7 +8,7 @@ anahtarKelimeler: "Hassa yaylaları, Hassa doğa yürüyüşü, Hassa Amanos do�
 date: 2026-08-20
 guncelleme: 2026-08-20
 okuma: 4
-kapak: "/img/posts/amanos-daglari-yaylalari.webp"
+kapak: "/img/posts/hatay-kanyonlari.webp"
 kapakAlt: "Hassa'nın yayla bölgesinden bir doğa manzarası"
 sss:
   - s: "Hassa yaylalarına nasıl ulaşılır?"

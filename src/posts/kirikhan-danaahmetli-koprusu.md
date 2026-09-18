@@ -8,7 +8,7 @@ anahtarKelimeler: "Danaahmetli Köprüsü, Alan Yaylası Kırıkhan, Kırıkhan 
 date: 2026-08-20
 guncelleme: 2026-08-20
 okuma: 4
-kapak: "/img/posts/amanos-daglari-yaylalari.webp"
+kapak: "/img/posts/hatay-kanyonlari.webp"
 kapakAlt: "Kırıkhan çevresindeki tarihi köprü ve yayla manzarası"
 sss:
   - s: "Danaahmetli Köprüsü ne zaman inşa edilmiştir?"

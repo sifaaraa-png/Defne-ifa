@@ -8,7 +8,7 @@ anahtarKelimeler: "Kırıkhan gezilecek yerler, Kırıkhan Hatay, Kırıkhan yay
 date: 2026-08-20
 guncelleme: 2026-08-20
 okuma: 5
-kapak: "/img/posts/amanos-daglari-yaylalari.webp"
+kapak: "/img/posts/amik-golu.webp"
 kapakAlt: "Kırıkhan çevresindeki Amanos yamaçları ve tarım arazileri"
 sss:
   - s: "Kırıkhan, Hatay'ın neresinde yer alır?"

@@ -8,7 +8,7 @@ anahtarKelimeler: "Arsuz narenciye, Arsuz portakal bahçeleri, Hatay narenciye �
 date: 2026-08-20
 guncelleme: 2026-08-20
 okuma: 4
-kapak: "/img/posts/dogada-vakit-gecirmenin-faydalari.webp"
+kapak: "/img/posts/iskenderun-sahil-yamac-parasutu.webp"
 kapakAlt: "Arsuz çevresindeki narenciye bahçelerinden bir görünüm"
 sss:
   - s: "Arsuz'da hangi narenciye türleri yetiştirilir?"
